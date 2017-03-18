@@ -1,7 +1,6 @@
 <div align="center">
 
-Knowledge OpenVault
-====================
+# Knowledge OpenVault
 
 ![Book Of Knowledge](http://michellephan.com/content/uploads/2015/01/KnowledgeHeader.png)
 
