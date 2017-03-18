@@ -2,7 +2,9 @@ Knowledge OpenVault
 ====================
 
 <div align="center">
+
 ![Book Of Knowledge](http://michellephan.com/content/uploads/2015/01/KnowledgeHeader.png)
+
 </div>
 
 Repository for documenting knowledge acquired. While I'll be putting some properly organized ones
