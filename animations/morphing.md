@@ -8,3 +8,6 @@ Morphing is changing the coordinate values of a paths. Here are some examples:
 - [A guide to SVG animations - SMIL by Sara Soueidan](https://css-tricks.com/guide-svg-animations-smil/)
 - [Shape shifter - A tool for shifting a shape into another](https://shapeshifter.design)
 - [Many tools shape morphing](https://css-tricks.com/many-tools-shape-morphing/)
+- [Ana Tudor uses clip-path for morphing effect - Breathing polygon](http://codepen.io/thebabydino/pen/Fxrbd)
+- [Ana Tudor again with the clip-path magic](http://codepen.io/thebabydino/details/uiHCf#forks)
+- [Yet another clip-path weirdness by Ana Tudor](http://codepen.io/thebabydino/pen/aFrcu)
