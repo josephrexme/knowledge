@@ -8,3 +8,4 @@
 - [Flip your animations by Aerotwist](https://aerotwist.com/blog/flip-your-animations/)
 - [FLOG: First, Last, Object containing invert, GSAP animation example by Shaw](https://codepen.io/shshaw/pen/bZJvjK?editors=1010)
 - [Creating animations with flip technique by DavidKPiano](http://www.creativebloq.com/features/create-animations-with-the-flip-technique)
+- [Paul Lewis (Aerotwist)'s library on Flip - FLIP.js](https://github.com/googlechrome/flipjs)
