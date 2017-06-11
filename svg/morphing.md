@@ -11,3 +11,4 @@ Morphing is changing the coordinate values of a paths. Here are some examples:
 - [Ana Tudor uses clip-path for morphing effect - Breathing polygon](http://codepen.io/thebabydino/pen/Fxrbd)
 - [Ana Tudor again with the clip-path magic](http://codepen.io/thebabydino/details/uiHCf#forks)
 - [Yet another clip-path weirdness by Ana Tudor](http://codepen.io/thebabydino/pen/aFrcu)
+- [Flubber morphing tool that also lists other morphing tools in README](https://github.com/veltman/flubber)
