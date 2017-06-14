@@ -1,0 +1,1 @@
+- Svg provides fallback for non supporting browsers with `switch` and `foreignObject`. [This tweet by Sara Soueidan for more](https://twitter.com/SaraSoueidan/status/875112721922043904)
