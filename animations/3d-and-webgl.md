@@ -12,3 +12,7 @@
 ### From Blender to ThreeJS
 - [Importing a modeled mesh from blender to three.js](https://www.jonathan-petitcolas.com/2015/07/27/importing-blender-modelized-mesh-in-threejs.html)
 - [ThreeJS blender export from repo](https://github.com/mrdoob/three.js/tree/master/utils/exporters/blender)
+
+
+# Blender
+- [Blender Noob to Pro wikibook](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro#Table_of_Contents)

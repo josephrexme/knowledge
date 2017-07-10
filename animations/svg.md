@@ -1,7 +1,12 @@
+# Manual
+- [Pocket guide to learning SVG](http://svgpocketguide.com/book/)
+
+# Working with paths
+- [Tool for modifying path coordinates in SVG](http://jxnblk.com/paths/)
+- [Morphing between SVG paths](https://github.com/SamKnows/path.js)
+- [Get path lengths](https://codepen.io/gabriellewee/full/EZPYmw/)
+
 # Morphing
-
-> Note to self: morphing works only if the 2 paths have the same number of points
-
 Morphing is changing the coordinate values of a paths. Here are some examples:
 - [Introduction with SMIL (Synchronized Multimedia Integration Language)](https://css-tricks.com/svg-shape-morphing-works/)
 - [Intro to SMIL SVG animation](http://codepen.io/noahblon/post/an-intro-to-svg-animation-with-smil)
@@ -12,3 +17,8 @@ Morphing is changing the coordinate values of a paths. Here are some examples:
 - [Ana Tudor again with the clip-path magic](http://codepen.io/thebabydino/details/uiHCf#forks)
 - [Yet another clip-path weirdness by Ana Tudor](http://codepen.io/thebabydino/pen/aFrcu)
 - [Flubber morphing tool that also lists other morphing tools in README](https://github.com/veltman/flubber)
+
+# Misc
+- Svg provides fallback for non supporting browsers with `switch` and `foreignObject`. [This tweet by Sara Soueidan for more](https://twitter.com/SaraSoueidan/status/875112721922043904)
+- Export SVG to Gif with Chris Gannon's tool [here](https://github.com/chrisgannon/SVG2GIF)
+

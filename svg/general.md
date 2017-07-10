@@ -1,2 +1,0 @@
-- Svg provides fallback for non supporting browsers with `switch` and `foreignObject`. [This tweet by Sara Soueidan for more](https://twitter.com/SaraSoueidan/status/875112721922043904)
-- Export SVG to Gif with Chris Gannon's tool [here](https://github.com/chrisgannon/SVG2GIF)
