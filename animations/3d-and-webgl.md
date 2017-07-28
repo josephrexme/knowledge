@@ -14,5 +14,9 @@
 - [ThreeJS blender export from repo](https://github.com/mrdoob/three.js/tree/master/utils/exporters/blender)
 
 
-# Blender
+### Blender
 - [Blender Noob to Pro wikibook](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro#Table_of_Contents)
+
+
+### Misc
+- [Webgl insights](http://webglinsights.com/)
