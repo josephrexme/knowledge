@@ -1,0 +1,1 @@
+- Algolia for search on apps
