@@ -11,6 +11,7 @@
 - [Codrops animating 3D scenes](https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/)
 - [A series on shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804)
 - [Fun with WebGL 2.0 - YouTube Playlist](https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF)
+- [Learning GLSL resources repo](https://github.com/TheoGil/learning-glsl)
 
 ### Intermediary
 - [pixelshaders](http://pixelshaders.com)
