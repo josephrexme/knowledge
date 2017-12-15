@@ -1,12 +1,15 @@
 # Webgl
 ### Entry for beginners
 - [Rach Smith's series on codepen](https://codepen.io/rachsmith/post/beginning-with-3d-webgl-pt-1-the-scene)
+- [Diving into 3D WebGL with THREE.js by Joseph Rex](https://x-team.com/blog/3d-webgl-threejs/)
+- [Building User Experiences with Three.js by Joseph Rex](https://x-team.com/blog/user-experience-threejs/)
 - [Animating points with Webgl and Regl](http://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html)
 - [A Noob's guide to three.js by Dennis Gaebel](https://webdesign.tutsplus.com/tutorials/a-noobs-guide-to-threejs--cms-28639)
 - [Louis Hoebregts's threejs collection](https://codepen.io/collection/DrxLEd/) and [posts](http://mamboleoo.be/learnThree/)
 - [Codrops animating 3D scenes](https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/)
 - [Fun with WebGL 2.0 - YouTube Playlist](https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF)
 - [Learning GLSL resources repo](https://github.com/TheoGil/learning-glsl)
+- [Animation and Interaction Techniques with WebGL](https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/)
 
 
 ### Shaders
