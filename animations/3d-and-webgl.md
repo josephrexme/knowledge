@@ -20,6 +20,7 @@
 - [Shader school](https://github.com/stackgl/shader-school)
 - [ShaderToy](https://www.shadertoy.com)
 - [ShaderLand](http://shaderland.com)
+- [Learning shaders](https://www.alanzucconi.com/2018/01/03/learning-shaders/)
 
 ### From Blender to ThreeJS
 - [Importing a modeled mesh from blender to three.js](https://www.jonathan-petitcolas.com/2015/07/27/importing-blender-modelized-mesh-in-threejs.html)
