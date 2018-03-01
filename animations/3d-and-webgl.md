@@ -30,6 +30,10 @@
 ### Blender
 - [Blender Noob to Pro wikibook](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro#Table_of_Contents)
 
+### Debugging
+- [Spectator extension - Chrome](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk?hl=en)
+- [WebGL Insights](https://chrome.google.com/webstore/detail/webgl-insight/djdcbmfacaaocoomokenoalbomllhnko?hl=en-US)
+
 
 ### Misc
 - [Webgl insights](http://webglinsights.com/)
