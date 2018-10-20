@@ -1,6 +1,6 @@
 Books
 ========
-I have a well formatted version of this on my [reading list](https://josephrex.me/reading-list)
+I have a well formatted version of this on my [reading list](https://josephrex.me/life/reading-list)
 
 ## Books I've read
 - RiceTea
