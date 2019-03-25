@@ -44,3 +44,4 @@
 - [BabylonJS - Alternative WebGL library](https://www.babylonjs.com/)
 - [WhitestormJS](http://whsjs.io) for physics, mouse interaction, webVR
 - [Workshop by GazzyB on making WebGL websites](https://doublejump.github.io/webgl-workshop/guide/)
+- [ThreeJS tips and tricks](https://discoverthreejs.com/tips-and-tricks/)
