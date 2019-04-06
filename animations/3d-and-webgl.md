@@ -45,3 +45,4 @@
 - [WhitestormJS](http://whsjs.io) for physics, mouse interaction, webVR
 - [Workshop by GazzyB on making WebGL websites](https://doublejump.github.io/webgl-workshop/guide/)
 - [ThreeJS tips and tricks](https://discoverthreejs.com/tips-and-tricks/)
+- [Mapping Shaders](https://www.clicktorelease.com/blog/creating-spherical-environment-mapping-shader/)
