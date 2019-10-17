@@ -5,4 +5,8 @@ Interviewing
 - [JS interview topics](https://github.com/topics/javascript-interview-questions)
 - [Practice Conway's game of life][1]
 
+### Asking questions about company
+- [Culture Queries][2]
+
 [1]: https://en.wikipedia.org/wiki/Conway's_Game_of_Life
+[2]: https://www.keyvalues.com/culture-queries
