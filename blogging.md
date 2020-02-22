@@ -1,1 +1,0 @@
-- [Forestry](https://forestry.io) is a CMS for static websites
