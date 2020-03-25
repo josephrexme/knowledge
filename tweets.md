@@ -4,3 +4,5 @@
 - Breadth First Search - https://twitter.com/addyosmani/status/1221742142109966336?s=20
 - Tiny Helpers - https://twitter.com/sarah_edo/status/1221826231726825472?s=20
 - Common Memory Leaks in JS - https://twitter.com/addyosmani/status/1230195891618770945
+
+- Chunks from Array with Array.from - https://twitter.com/addyosmani/status/1242737991526776832?s=20
