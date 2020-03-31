@@ -6,3 +6,8 @@
 - Common Memory Leaks in JS - https://twitter.com/addyosmani/status/1230195891618770945
 
 - Chunks from Array with Array.from - https://twitter.com/addyosmani/status/1242737991526776832?s=20
+
+- David's CheatSheet for Event Driven FSM - https://twitter.com/DavidKPiano/status/1245024907131531270
+
+
+- Generator functions in JS (Redux Saga usage) - https://twitter.com/mjackson/status/1244736662875193345
