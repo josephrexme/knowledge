@@ -1,5 +1,6 @@
 ## Priceles Tweets
 
+- On using base font size against fixed ratios for typography values - https://twitter.com/siddharthkp/status/1262038126794551296
 - Una on aspect-ratio CSS - https://twitter.com/Una/status/1260980901934137345
 - CSS Grids for stacking - https://twitter.com/stefanjudis/status/1221611004481720320
 - Breadth First Search - https://twitter.com/addyosmani/status/1221742142109966336?s=20
