@@ -4,3 +4,10 @@ This video by Jake Archibald and Surma goes deep into great optimizations that c
 
 
 - Check for memory leaks https://www.voorhoede.nl/en/blog/your-website-probably-has-a-memory-leak/
+
+
+### React Performance Profiling
+- <https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference>
+- <https://kentcdodds.com/blog/profile-a-react-app-for-performance>
+- <https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html>
+
