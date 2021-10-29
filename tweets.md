@@ -15,3 +15,6 @@
 - Generator functions in JS (Redux Saga usage) - https://twitter.com/mjackson/status/1244736662875193345
 
 - Nice illustration of HTML,CSS, and JS - https://twitter.com/StasKlymenko/status/1248199947528409088?s=20
+
+
+- useRefs - https://twitter.com/_pier/status/1452412652559470593
